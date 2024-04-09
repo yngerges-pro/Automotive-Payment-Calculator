@@ -11,7 +11,7 @@
 ### Data Saved also within PostagreSQL
 ![image](https://github.com/yngerges-pro/Automotive-Payment-Calculator/assets/102266055/e28dd1c0-f7ea-4062-85c5-5c2ca70220bf)
 
-###### **Note that the Users-Excel sheet is for the Users and if the SQL is within the Cloud, the developers use it to analysis User's input
+###### **Note that the Users-Excel sheet is for the Users' usage while (assuming the database is within the Cloud), the database may be useful towards Data Analyst
 
 
 ### Users can also view and Analysis Scatter plots
