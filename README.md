@@ -8,7 +8,7 @@
 ### Data Saved within Users-Excel
 ![image](https://github.com/yngerges-pro/Automotive-Payment-Calculator/assets/102266055/79c0f620-5887-4def-95d7-257193f6f6e5)
 
-### Data Saved also within PostagreSQL
+### Data Saved also within PostagreSQL (The demonstrated data inputted previously is shown within the last row)
 ![image](https://github.com/yngerges-pro/Automotive-Payment-Calculator/assets/102266055/e28dd1c0-f7ea-4062-85c5-5c2ca70220bf)
 
 ###### **Note that the Users-Excel sheet is for the Users' usage while (assuming the database is within the Cloud), the database may be useful towards Data Analyst
