@@ -5,7 +5,7 @@
 ![4-08-2024 (23-03-05)](https://github.com/yngerges-pro/Automotive-Payment-Calculator/assets/102266055/68af72b1-8539-40bb-a4be-202aa28d22d9)
 
 
-### Data Saved within Users-Excel
+### Data Saved within Users-Excel (The demonstrated data inputted previously is shown within the last row)
 ![image](https://github.com/yngerges-pro/Automotive-Payment-Calculator/assets/102266055/79c0f620-5887-4def-95d7-257193f6f6e5)
 
 ### Data Saved also within PostagreSQL (The demonstrated data inputted previously is shown within the last row)
