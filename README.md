@@ -17,7 +17,7 @@
 ### Users can also view and Analysis Scatter plots (AnalyzingPython.py plots and shows the scatter plots)
 ![4-08-2024 (23-12-26)](https://github.com/yngerges-pro/Automotive-Payment-Calculator/assets/102266055/d26e6775-4f85-4a7a-9e0e-7a77402ef057)
 
-### ImportantExcelProgram.py Generated that data shown within car.xlsx Excel sheet
+### ImportantExcelProgram.py Generated the data shown within car.xlsx Excel sheet
 ![image](https://github.com/yngerges-pro/Automotive-Payment-Calculator/assets/102266055/39960da0-e04c-4d75-8005-13612282d21e)
 ###### Using this data to create the scatter plots shown previously
 
