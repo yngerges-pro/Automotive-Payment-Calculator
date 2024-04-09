@@ -14,7 +14,7 @@
 ###### **Note that the Users-Excel sheet is for the Users' usage while (assuming the database is within the Cloud), the database may be useful towards Data Analyst
 
 
-### Users can also view and Analysis Scatter plots
+### Users can also view and Analysis Scatter plots (AnalyzingPython.py plots and shows the scatter plots)
 ![4-08-2024 (23-12-26)](https://github.com/yngerges-pro/Automotive-Payment-Calculator/assets/102266055/d26e6775-4f85-4a7a-9e0e-7a77402ef057)
 
 ### ImportantExcelProgram.py Generated car.xlsx Excel sheet
